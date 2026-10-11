@@ -1,0 +1,1 @@
+Program učitava studente iz popis.txt, pronalazi najveći broj bodova i računa postotak bodova za svakog studenta.
