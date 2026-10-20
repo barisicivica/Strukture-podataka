@@ -1,0 +1,1 @@
+Program u C-u za dodavanje, ispis, pretraživanje i brisanje osoba pomoću jednostruko povezanog popisa.
